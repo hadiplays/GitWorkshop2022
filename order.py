@@ -19,3 +19,5 @@ class Order:
         self.items += ["chicken strips"]
         print("Added chicken Strips")
     # implement methods for menu items
+    
+    
